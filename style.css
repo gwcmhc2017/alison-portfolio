@@ -1,0 +1,30 @@
+h1 {
+  color: LightPink;
+  background-color: DarkBlue;
+  font-family: 'Georgia', sans-serif;
+}
+p {
+  color: DarkBlue;
+  background-color: LightPink;
+  justify-content: space-between;
+  font-family: 'Papyrus', sans-serif;
+}
+li {
+  color: DarkBlue;
+  background-color: LightPink;
+  font-family: 'Papyrus', sans-serif;
+}
+img {
+  transform: rotate(90deg);
+  width:250px;
+  height: auto;
+  justify-content: center;
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color: LightPink
+}
